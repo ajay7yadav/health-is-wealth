@@ -4,15 +4,15 @@
 
 # Create the REST APIs for Products
 
-# Adding the search capabilities on products
+# Adding the search capabilities on doctors and hospitals
 # Using middleware for validation
 # Creating authenticated Order APIs
 
 # Tech
 
-# Node
-# Express
-# Sequelize(ORM)
-# MySQL
-# JWT
-# bcryptjs
+- Node
+- Express
+- Sequelize(ORM)
+- MySQL
+- JWT
+- bcryptjs
